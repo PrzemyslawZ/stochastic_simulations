@@ -1,5 +1,7 @@
 ### What you need
-For JAX part you have to install JAX framework.
+JAX framework: https://docs.jax.dev/en/latest/installation.html
 
 ### How to use:
-In console run: python main.py for clean Python version and/or python main.py jax for JAX version
+1) For clean Python version: python main.py
+2) For JAX version  python main.py jax. You may specify computing device by adding additional option: cpu or gpu
+
